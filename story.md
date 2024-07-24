@@ -1,3 +1,5 @@
 # The Rabbit Who Wanted to Learn Git
 
 In the heart of a lush, green forest lived a curious little rabbit named Benny. Benny loved exploring new things, from burrows and tunnels to the latest gadgets brought by the forest's human visitors. One day, Benny overheard a conversation between two hikers about something called "Git," which they described as a way to keep track of changes in their work. Intrigued, Benny decided he wanted to learn Git, even though he wasn’t quite sure what it was.
+
+Benny hopped over to his friend, a wise old owl named Oliver, who knew a lot about human inventions. "Oliver, can you teach me how to use Git?" Benny asked eagerly. Oliver chuckled and nodded. "Of course, Benny. Git is a tool that helps you manage and track changes in your files. Imagine you’re working on a drawing, and you want to save each version as you improve it. Git does just that but in a more organized way."
