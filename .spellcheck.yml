@@ -1,0 +1,5 @@
+spellchecker: aspell
+matrix:
+- name: Story File
+  sources:
+  - "story.md"
